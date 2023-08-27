@@ -62,54 +62,54 @@
       "title": "Web Development in 2023",
       "desc": "Learn how to develop a responsive and functional website.",
       "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "author": "N/A",
-      "duration": "6 month",
+      "author": "1.2L",
+      "duration": "5 hrs",
       "link":"https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/"
     },
     {
-      "title": "Cloud Computing",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
-      "author": "N/A",
-      "duration": "94 lession",
+      "title": "Cloud Foundations",
+      "icon": "https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/learning-partners/greatlearning-brand-white.svg",
+      "desc": "Learn cloud foundations efficiently",
+      "author": "1.6L",
+      "duration": "2.5 hrs",
       "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations"
     },
     {
       "title": "Web Design in 2023",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "icon": "https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/learning-partners/greatlearning-brand-white.svg",
       "desc": "Learn how to develop a responsive and functional website. ",
-      "author": "N/A",
-      "duration": "3 month",
-      "link":https://www.mygreatlearning.com/web-design/free-courses""
+      "author": "1.2L+",
+      "duration": "5 modules",
+      "link":"https://www.mygreatlearning.com/web-design/free-courses"
     },
     {
       "title": "Ethical hacking",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "icon": "https://www.mindluster.com/resources/main_logo.png?d",
       "desc": "Become a Hacker",
       "author": "N/A",
-      "duration": "3 month",
+      "duration": "36 Lessons",
       "link":"https://www.mindluster.com/certificate/4620"
     },
     {
       "title": "MS Excel",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "Learn how to develop a responsive and functional website.",
+      "icon": "https://www.mindluster.com/resources/main_logo.png?d",
+      "desc": "Learn how to use MS Excel and its features.",
       "author": "N/A",
-      "duration": "1 month",
+      "duration": "94 Lessons",
       "link":"https://www.mindluster.com/certificate/8687"
     },
     {
       "title": "Automation",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "Learn how to develop a responsive and functional website.",
+      "icon": "https://www.mindluster.com/resources/main_logo.png?d",
+      "desc": "Learn Automation",
       "author": "N/A",
-      "duration": "78 Lession",
+      "duration": "22 Lessons",
       "link":"https://www.mindluster.com/certificate/383"
     },
     {
       "title": "Game Development",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "Learn how to develop a responsive and functional website.",
+      "icon": "https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png",
+      "desc": "Learn how to develop games using Java",
       "author": "2009",
       "duration": "5 hrs",
       "link":"https://www.guvi.in/free-courses/?course=gamejava_eng"
@@ -117,24 +117,24 @@
     {
       "title": "Digital Marketing Basics",
       "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "Learn how to develop a responsive and functional website.",
+      "desc": "Learn the basicsof digital marketing.",
       "author": "2006",
       "duration": "6 hrs",
       "link":"https://www.guvi.in/free-courses/?course=DigitalMarketingBasics"
     },
     {
       "title": "IOT 101",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
-      "desc": "Learn how to develop a responsive and functional website.",
-      "author": "N/A",
-      "duration": "2009",
+      "icon": "https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png",
+      "desc": "Learn the fundamentals internet of things.",
+      "author": "2009",
+      "duration": "N/A",
       "link":"https://www.guvi.in/free-courses/?course=iot101_english"
     }
   ],
   "paid_courses": [
     {
       "title": "Advanced JavaScript",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "icon": "https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png",
       "desc": "Learn advance javascript",
       "author": "2168",
       "duration": "6 hrs",
@@ -142,7 +142,7 @@
     },
     {
       "title": "Advanced RPA",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "icon": "https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png",
       "desc": "Learn advanced RPA.",
       "author": "2049",
       "duration": "9 hrs",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Angular Unit Testing",
-      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "icon": "https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png",
       "desc": "Learn Angular Unit Testing.",
       "author": "2028",
       "duration": "6 hrs",
