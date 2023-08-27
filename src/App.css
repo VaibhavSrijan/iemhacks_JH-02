@@ -662,7 +662,82 @@ button {
   padding: 15px;
   width: calc(100% / 2);
 }
+@media screen and (prefers-color-scheme: dark)
+{
+body {
+  background-color: #212529;
+  color: #fff;
+}
 
+.carrer {
+  color: #fff;
+}
+
+.path {
+  color: #999;
+}
+
+.navLeft .SearchBar {
+  background-color: #373c41;
+}
+
+.navLeft .SearchBar input {
+  border-color: #373c41;
+}
+
+.navLeft .SearchBar i {
+  color: #373c41;
+}
+
+.navLeft ul li a {
+  color: #fff;
+}
+
+.NavMenu {
+  background-color: #373c41;
+}
+
+.NavMenu img {
+  border-color: #fff;
+}
+
+.NavMenu a {
+  color: #fff;
+}
+
+#Container {
+  background-color: #212529;
+}
+
+.Heading {
+  color: #fff;
+}
+
+.CarrerPath {
+  background-color: #212529;
+}
+
+.CardContainer {
+  background-color: #373c41;
+}
+
+.Card img {
+  border-color: #373c41;
+}
+
+.Card h3 {
+  color: #fff;
+}
+
+.Card p {
+  color: #999;
+}
+
+.Card button {
+  background-color: #fff;
+  color: #212529;
+}
+}
 .RoadMapContainer .Right h4 {
   font-size: var(--desktop-paragraph-font);
 }
