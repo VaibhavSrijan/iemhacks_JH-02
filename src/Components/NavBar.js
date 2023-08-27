@@ -1,9 +1,16 @@
 import React from "react";
-import {AiFillSetting} from "react-icons/ai"
-import {MdLightMode} from "react-icons/md"
-import {BsFillBellFill} from "react-icons/bs"
+import {AiFillSetting} from "react-icons/ai";
+import {MdLightMode, MdModeNight} from "react-icons/md";
+import {BsFillBellFill} from "react-icons/bs";
 import {BiSearch} from 'react-icons/bi'
+
 function NavBar() {
+  const [isDarkMode, setIsDarkMode] = React.useState(false);
+
+  const toggleDarkMode = () => {
+    setIsDarkMode(!isDarkMode);
+  };
+
   return (
     <>
       <nav id="nav">
@@ -23,8 +30,10 @@ function NavBar() {
               <AiFillSetting />
             </span>
             <span className="mode">
-              <MdLightMode />
-              {/* <MdModeNight /> */}
+              {isDarkMode ? <MdModeNight /> : <MdLightMode />}
+              <button onClick={toggleDarkMode}>
+                {isDarkMode ? "Light Mode" : "Dark Mode"}
+              </button>
             </span>
             <span className="notification">
               <BsFillBellFill />
