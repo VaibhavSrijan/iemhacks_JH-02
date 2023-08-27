@@ -85,11 +85,11 @@ function Dashboard() {
                   <p>30% completed</p>
                 </div>
               </div>
-              <Link to="">See More</Link>
+              <Link to="https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/">See More</Link>
             </div>
             
             <div className="RightBox2 Darkbox">
-              <h3>People Choose Carrer</h3>
+              <h3>People&#39;s Choice</h3>
               <div className="">
                 <div className="list">
                   <span>Artificial Intelligance</span>
