@@ -161,7 +161,7 @@ function RoadMapDataScientist() {
                     </li>
                     <li>
                       <PiStarFour className="star-icon" />
-                      Google
+                      META
                     </li>
                   </ul>
                 </div>
